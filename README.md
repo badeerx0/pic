@@ -1,1 +1,2 @@
 # picture directory
+For assets
